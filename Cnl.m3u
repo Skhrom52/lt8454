@@ -28,7 +28,7 @@ https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 
 https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/playlist.m3u8
 
-#EXTINF: -1 tvg-chno="8" tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Noticiero",rtp
+#EXTINF: -1 tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="Noticiero",rtp
 
 http://www.channel.tevemi.com:1935/Atb/Atb/playlist.m3u8
 
@@ -36,3 +36,6 @@ http://www.channel.tevemi.com:1935/Atb/Atb/playlist.m3u8
 
 https://master.tucableip.com/pat/playlist.m3u8
 
+#EXTINF: -1 tvg-chno="10" tvg-logo="https://i.pinimg.com/736x/c3/54/d3/c354d3692b146508b4cd0447817d3f7d.jpg" group-title="Entretenimiento",Dragon Ball
+
+https://vsd122.mycdn.me/hls/3429779311175.m3u8/sig/YsFInNUw08c/expires/1677552714858/srcIp/200.87.90.198/urls/45.136.21.63/clientType/0/srcAg/CHROME/mid/6388076256839/video.m3u8?p\
