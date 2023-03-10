@@ -39,3 +39,11 @@ https://master.tucableip.com/pat/playlist.m3u8
 #EXTINF: -1 tvg-chno="10" tvg-logo="https://i.pinimg.com/736x/c3/54/d3/c354d3692b146508b4cd0447817d3f7d.jpg" group-title="Entretenimiento",Dragon Ball
 
 https://vsd122.mycdn.me/hls/3429779311175.m3u8/sig/YsFInNUw08c/expires/1677552714858/srcIp/200.87.90.198/urls/45.136.21.63/clientType/0/srcAg/CHROME/mid/6388076256839/video.m3u8?p\
+
+#EXTINF: -1 tvg-chno="11" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Entretenimiento",Seo TV Peliculas
+
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF: -1 tvg-chno="12" tvg-logo="https://i.imgur.com/ce29Mbv.png" group-title="Entretenimiento",Marivision
+
+https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
