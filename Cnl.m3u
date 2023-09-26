@@ -2,15 +2,15 @@
 
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Noticiero",Bolivision
 
-https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+https:\/\/d3mghbm9e5zfap.cloudfront.net\/Bolivision\/2af819d7c8ab1c07658d1575e55800e5.sdp\/playlist.m3u8
 
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://i.imgur.com/E243X2x.png" group-title="Noticiero",ATB
 
-http://186.121.206.197/live/daniel/index.m3u8
+https://stream.atb.com.bo/live/daniel/index.m3u8
 
-#EXTINF: -1 tvg-chno="3" tvg-logo="https://i.imgur.com/E7Qxyi0.png" group-title="Noticiero",Bolivia tv 7.2
+#EXTINF: -1 tvg-chno="3" tvg-logo="https://i.imgur.com/E7Qxyi0.png" group-title="Noticiero",Bolivia tv 7.1
 
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNi8yMDIzIDU6NDk6MjYgUE0maGFzaF92YWx1ZT1CNmE4RXRpRHlidWNISFZ2eC9EWEZ3PT0mdmFsaWRtaW51dGVzPTI1JmlkPQ==
 
 #EXTINF: -1 tvg-chno="4" tvg-logo="https://i.imgur.com/Jj2KB5H.png" group-title="Noticiero",Bolivia tv
 
@@ -26,7 +26,7 @@ https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF: -1 tvg-chno="7" tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="Noticiero",Ceacom
 
-https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/playlist.m3u8
+https://eu1.servers10.com:8081/ceacomtv/index.m3u8
 
 #EXTINF: -1 tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="Noticiero",rtp
 
@@ -44,6 +44,6 @@ https://vsd122.mycdn.me/hls/3429779311175.m3u8/sig/TEc0esBTRtA/expires/167871916
 
 https://live.seo.tv.bo/live/4SEO.m3u8
 
-#EXTINF: -1 tvg-chno="12" tvg-logo="https://i.imgur.com/ce29Mbv.png" group-title="Entretenimiento",Marivision
+#EXTINF: -1 tvg-chno="12" tvg-logo="https://i.imgur.com/ce29Mbv.png" group-title="Entretenimiento",Red Uno
 
-https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
+"https://www.dailymotion.com/embed/video/x8douo2?syndication&#x3D;278713
